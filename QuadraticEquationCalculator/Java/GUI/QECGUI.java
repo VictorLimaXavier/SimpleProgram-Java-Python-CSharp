@@ -1,4 +1,4 @@
-package GUI;
+package gui;
 import javax.swing.JFrame;
 import javax.swing.JTextField;
 import javax.swing.JLabel;
@@ -9,7 +9,7 @@ import java.awt.event.ActionEvent;
 import java.awt.Container;
 import java.awt.FlowLayout;
 import java.awt.BorderLayout;
-import QuadraticEquation.QuadraticEquation;
+import quadraticEquation.QuadraticEquation;
 
 public class QECGUI extends JFrame implements ActionListener{
     private static final long serialVersionUID = 1L;

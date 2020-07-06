@@ -1,4 +1,4 @@
-package QuadraticEquation;
+package quadraticEquation;
 
 public class QuadraticEquation {
     private double delta, x1, x2;
